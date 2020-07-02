@@ -7,6 +7,29 @@
 
 
 /* css untuk kelas main tambahan */
+.container {
+    padding-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: ;
+    text-align: center;
+}
+
+.heading h2{
+    Font-size: 80px;
+    text-align: center;    
+    padding-top: 40px;
+    padding-bottom: 20px;
+    color: #81ecec;
+}
+
+.text-contents {
+    width: 80%;
+    display: inline-block;
+    margin-top: 15px;
+    font-size: 15px;
+    color: rgb(255, 234, 167);
+}
 
 
 
