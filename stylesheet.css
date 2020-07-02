@@ -1,4 +1,60 @@
 /* css untuk kelas header */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+a {
+    text-decoration: none;
+  }
+
+header{
+    height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position :fixed;
+  top: 0;
+  z-index: 10;
+}
+.header-right{
+    float: right;
+
+}
+.header-right a{
+    line-height: 65px;
+    padding: 0 25px;
+    color: white;
+    display: block;
+    float: left;
+    transition: all 0.5s;
+}
+.header-left{
+    float: left;
+    line-height: 65px;
+  padding: 0 25px;
+ 
+  display: block;
+}
+.header-left a{
+    color: white;
+}
+
+.logo{
+    width:124px;
+    margin-top:20px;
+    font-size: large;
+    
+}
+.container1 {
+    max-width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+.top-main{
+    padding: 55px 0 100px 0;
+}
+
 
 
 
