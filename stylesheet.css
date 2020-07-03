@@ -102,15 +102,11 @@ header{
   padding: 30px 40px;
 }
 
-.footer-list {
-  float: right;
-}
-
 .footer-list li {
   color: #fff;
   float:left;
   font-size: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 20px 40px;
 }
 
 
