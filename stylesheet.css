@@ -104,7 +104,7 @@ header{
 
 .footer-list li {
   color: #fff;
-  float: middle;
+  float: left;
   font-size: 20px;
   padding: 10px 30px;
 }
