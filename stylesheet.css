@@ -93,6 +93,7 @@ header{
 .footer {
   background-color:rgba(34, 49, 52, 0.9);
   height: 200px;
+  float:left;
 }
 
 .footer-logo {
