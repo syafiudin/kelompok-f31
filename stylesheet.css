@@ -216,7 +216,7 @@ a {
   padding: 30px 40px;
 }
 
-.footer-list li {
+.footer-list a {
   color: #fff;
   float:right;
   font-size: 20px;
