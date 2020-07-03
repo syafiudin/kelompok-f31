@@ -206,6 +206,7 @@ a {
 .footer {
   background-color:rgba(34, 49, 52, 0.9);
   height: 200px;
+  padding: 40px;
 }
 
 .footer-logo {
@@ -219,7 +220,7 @@ a {
   color: #fff;
   float:right;
   font-size: 20px;
-  padding-bottom: 30px 100px;
+  padding: 30px 100px;
 }
 
 
