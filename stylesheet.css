@@ -92,7 +92,7 @@ header{
 /* css untuk kelas footer */
 .footer {
   background-color:rgba(34, 49, 52, 0.9);
-  height: 300px;
+  height: 250px;
 }
 
 .footer-logo {
@@ -107,7 +107,7 @@ header{
 }
 
 .footer-list li {
-  color: Right;
+  color: left;
   font-size: 20px;
   padding: 10px 20px;
 }
