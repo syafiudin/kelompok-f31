@@ -102,6 +102,10 @@ header{
   padding: 20px 40px;
 }
 
+.footer-list {
+  float: right;
+}
+
 .footer-list li {
   color: #fff;
   float: right;
