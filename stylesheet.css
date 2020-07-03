@@ -91,16 +91,18 @@ header{
 
 /* css untuk kelas footer */
 .footer {
-  color:#fff
   background-color:rgba(34, 49, 52, 0.9);
   height: 170px;
 }
 .footer-logo {
+  color: #fff;
   float: left;
   font-size: 36px;
   padding: 20px 40px;
 }
 .footer-list li {
+  color: #fff;
+  float: right;
   padding: 33px 20px;
 }
 
