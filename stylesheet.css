@@ -94,15 +94,12 @@ header{
   background-color:rgba(34, 49, 52, 0.9);
   height: 300px;
 }
+
 .footer-logo {
   color: #fff;
   float: left;
   font-size: 36px;
   padding: 20px 40px;
-}
-
-.footer-list {
-  float: left
 }
 
 .footer-list li {
