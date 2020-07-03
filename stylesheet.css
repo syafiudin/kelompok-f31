@@ -100,10 +100,15 @@ header{
   font-size: 36px;
   padding: 20px 40px;
 }
+
+footer-list {
+  float: left
+}
+
 .footer-list li {
   color: #fff;
-  float: left;
-  padding: 10px 20px;
+  float: left
+  padding: 10px 30px;
 }
 
 
