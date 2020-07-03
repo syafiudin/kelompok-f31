@@ -204,6 +204,7 @@ a {
 .footer {
   background-color:rgba(34, 49, 52, 0.9);
   height: 200px;
+  width:100%;
   padding: 40px;
 }
 
@@ -216,7 +217,7 @@ a {
 
 .footer-list a {
   color: #fff;
-  float: middle;
+  float: right;
   font-size: 20px;
   padding: 10px 40px;
 }
